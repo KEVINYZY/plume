@@ -1,4 +1,4 @@
-# plume
+zd # plume
 plume，一个轻量级机器学习库。包含常见机器学习算法的Python实现。
 
 
